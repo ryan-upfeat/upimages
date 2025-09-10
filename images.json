@@ -1,0 +1,56 @@
+{
+  "generated_at": "2025-09-09T18:20:16.878216",
+  "total_count": 5,
+  "images": [
+    {
+      "filename": "eggs-product1.png",
+      "path": "oa-img/eggs-product1.png",
+      "full_path": "/Users/ryan/workspace/upimages/oa-img/eggs-product1.png",
+      "cdn_url": "https://raw.githubusercontent.com/ryan-upfeat/upimages/main/oa-img/eggs-product1.png",
+      "size_bytes": 679812,
+      "size_human": "663.9 KB",
+      "modified": "2025-09-09T15:04:48.671571",
+      "extension": ".png"
+    },
+    {
+      "filename": "eggs-product2.png",
+      "path": "oa-img/eggs-product2.png",
+      "full_path": "/Users/ryan/workspace/upimages/oa-img/eggs-product2.png",
+      "cdn_url": "https://raw.githubusercontent.com/ryan-upfeat/upimages/main/oa-img/eggs-product2.png",
+      "size_bytes": 226637,
+      "size_human": "221.3 KB",
+      "modified": "2025-09-09T15:04:54.705355",
+      "extension": ".png"
+    },
+    {
+      "filename": "eggs-product3.png",
+      "path": "oa-img/eggs-product3.png",
+      "full_path": "/Users/ryan/workspace/upimages/oa-img/eggs-product3.png",
+      "cdn_url": "https://raw.githubusercontent.com/ryan-upfeat/upimages/main/oa-img/eggs-product3.png",
+      "size_bytes": 215596,
+      "size_human": "210.5 KB",
+      "modified": "2025-09-09T15:05:02.502464",
+      "extension": ".png"
+    },
+    {
+      "filename": "eggs-product4.png",
+      "path": "oa-img/eggs-product4.png",
+      "full_path": "/Users/ryan/workspace/upimages/oa-img/eggs-product4.png",
+      "cdn_url": "https://raw.githubusercontent.com/ryan-upfeat/upimages/main/oa-img/eggs-product4.png",
+      "size_bytes": 432951,
+      "size_human": "422.8 KB",
+      "modified": "2025-09-09T15:04:46.184257",
+      "extension": ".png"
+    },
+    {
+      "filename": "eggs-product5.png",
+      "path": "oa-img/eggs-product5.png",
+      "full_path": "/Users/ryan/workspace/upimages/oa-img/eggs-product5.png",
+      "cdn_url": "https://raw.githubusercontent.com/ryan-upfeat/upimages/main/oa-img/eggs-product5.png",
+      "size_bytes": 464638,
+      "size_human": "453.7 KB",
+      "modified": "2025-09-09T15:04:47.488593",
+      "extension": ".png"
+    }
+  ]
+}
